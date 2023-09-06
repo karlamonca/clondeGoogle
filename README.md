@@ -27,5 +27,5 @@ Las técnologias son:
 ## 3- Objetivo del proyecto
 Aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 
-## 4-Link a Demo
+## 4- Link a Demo
 Aqui puedes ver mi proyecto terminado: [Clonación de Google](#)
